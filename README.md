@@ -40,18 +40,8 @@ Please contact .r4v3n for a fix for the GSC crash.
 
 < GSC Injector / dll Injector ( Face injector ) >
 
-Place this "VG_BETA_GSC_CUSTOM" folder in the Documents folder on your PC.
-Then, run "CoDV_dll_Face_Injector.exe" as an administrator.
-
-Since this Face Injector operates at the kernel level, it may be flagged as a virus. Before running the app, disable the Windows antivirus system in advance.
-
-After launching the app, once the driver is initialized, start Call of Duty Vanguard Public Beta.
-Once the game is launched, the Face Injector will recognize Vanguard and automatically begin the GSC Injection process.
-
-Note that this Face Injector uses a driver pattern that is detected in the retail version of Call of Duty.
-After using GSC in the Vanguard Beta, if you plan to launch other games, restart your PC beforehand.
-Shutting down the PC or unplugging the power cord will prevent the driver from initializing properly, increasing the risk of a ban.
-Be sure to carefully restart your PC to avoid this.
+I am not distributing a dll injector for CoDV Beta.
+Please create this yourself.
 
 ----------
 
